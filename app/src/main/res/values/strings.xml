@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ASEJ3</string>
+    <string name="txt_valor1">Numero 1</string>
+    <string name="txt_valor2">Numero 2</string>
+    <string name="sumar">Suma</string>
+    <string name="restar">Resta</string>
+    <string name="multiplicar">Multiplicacion</string>
+    <string name="dividir">Division</string>
+    <string name="txt_resul">Resultado</string>
+    <string name="Calcular">Calcular</string>
+</resources>
